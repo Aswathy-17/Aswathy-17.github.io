@@ -91,7 +91,7 @@ skills:
       - name: SQL
         description: ""
         percent: 70
-        icon: assets\media\icons\image.png
+        icon: assets/media/icons/image.png
 
   - name: Hobbies
     color: "#eeac02"
