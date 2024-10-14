@@ -70,7 +70,7 @@ work:
     company_logo: ""
     date_start: 2023-04-01
     date_end: 2023-04-14
-    summary: |2-
+    summary: |
       Responsibilities include:
       - Preprocessing Data
       - Build and deploy models
