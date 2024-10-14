@@ -91,7 +91,7 @@ skills:
       - name: SQL
         description: ""
         percent: 70
-        icon: assets/media/icons/image.png
+        icon: assets\media\icons\image.png
 
   - name: Hobbies
     color: "#eeac02"
@@ -125,6 +125,7 @@ languages:
 awards:
   - title: Google Data Analytics
     url: https://www.coursera.org/professional-certificates/google-data-analytics?myLearningTab=IN_PROGRESS
+    certificate_url: https://www.coursera.org/account/accomplishments/specialization/certificate/RBRUEXDYP0UT
     date: "2023-11-25"
     awarder: Coursera
     icon: coursera
@@ -132,6 +133,7 @@ awards:
       I completed the Google Data Analytics Professional Certificate on Coursera, where I learned to use tools like SQL, R, Google Sheets, and Tableau for data cleaning, analysis, and visualization. The program included hands-on projects and a final capstone to apply my skills to real-world data. After finishing the beginner-friendly course in about 6 months, I earned a Google certificate to enhance my job prospects in data analytics.
   - title: HTML and CSS in depth
     url: https://www.coursera.org/learn/html-and-css-in-depth?myLearningTab=IN_PROGRESS
+    certificate_url: https://www.coursera.org/account/accomplishments/verify/JWN9F9RVRL3K
     date: "2023-07-01"
     awarder: Coursera
     icon: coursera
