@@ -91,7 +91,7 @@ skills:
       - name: SQL
         description: ""
         percent: 70
-        icon: ../assets/media/icons/image.png
+        icon: devicon/mysql
 
   - name: Hobbies
     color: "#eeac02"
