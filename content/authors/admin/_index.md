@@ -3,7 +3,7 @@
 title: Aswathy Rose Mathew
 
 # Name pronunciation (optional)
-name_pronunciation: ''
+name_pronunciation: ""
 
 # Full name (for SEO)
 first_name: Aswathy Rose
@@ -28,7 +28,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:aswathyrosemathew@gmail.com'
+    url: "mailto:aswathyrosemathew@gmail.com"
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/Aswathy-17
@@ -67,7 +67,7 @@ work:
   - position: Machine Learning Intern
     company_name: NeST Cyber Campus
     company_url: https://www.nestcybercampus.com/
-    company_logo: ''
+    company_logo: ""
     date_start: 2023-04-01
     date_end: 2023-04-14
     summary: |2-
@@ -75,46 +75,38 @@ work:
       - Preprocessing Data
       - Build and deploy models
 
-
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
       - name: Python
-        description: ''
+        description: ""
         percent: 80
         icon: devicon/python
       - name: RStudio
-        description: ''
-        percent: 80
+        description: ""
+        percent: 60
         icon: devicon/rstudio
-      - name: PyTorch
-        description: ''
-        percent: 40
-        icon: devicon/pytorch
-        name: C
-        description: ''
-        percent: 40
-        icon: devicon/pytorch
-        name: SQL
-        description: ''
-        percent: 80
-        icon: devicon/pytorch
+      - name: SQL
+        description: ""
+        percent: 70
+        icon: assets/media/icons/image.png
+
   - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
+    color: "#eeac02"
+    color_border: "#f0bf23"
     items:
       - name: Hiking
-        description: ''
+        description: ""
         percent: 60
         icon: person-simple-walk
       - name: Cats
-        description: ''
+        description: ""
         percent: 100
         icon: cat
       - name: Photography
-        description: ''
+        description: ""
         percent: 80
         icon: camera
 
@@ -132,26 +124,23 @@ languages:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: Google Data Analytics
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
+    url: https://www.coursera.org/professional-certificates/google-data-analytics?myLearningTab=IN_PROGRESS
+    date: "2023-11-25"
     awarder: Coursera
     icon: coursera
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
+      I completed the Google Data Analytics Professional Certificate on Coursera, where I learned to use tools like SQL, R, Google Sheets, and Tableau for data cleaning, analysis, and visualization. The program included hands-on projects and a final capstone to apply my skills to real-world data. After finishing the beginner-friendly course in about 6 months, I earned a Google certificate to enhance my job prospects in data analytics.
+  - title: HTML and CSS in depth
+    url: https://www.coursera.org/learn/html-and-css-in-depth?myLearningTab=IN_PROGRESS
+    date: "2023-07-01"
+    awarder: Coursera
+    icon: coursera
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
+      In the HTML and CSS in Depth course on Coursera, I learned how to build responsive websites by mastering HTML5 and CSS3 features. The course deepened my understanding of web development, covering everything from semantic HTML elements to advanced CSS layouts like Flexbox and Grid. By the end, I felt confident in creating visually appealing web pages and applying design best practices, thanks to the hands-on projects and in-depth explanations.
+  - title: "Object-Oriented Programming in R"
     url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
     certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
+    date: "2023-01-21"
     awarder: datacamp
     icon: datacamp
     summary: |
