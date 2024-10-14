@@ -11,18 +11,18 @@ last_name: Mathew
 
 # Status emoji
 status:
-  icon: ✌️🎶
+  icon: 🎶
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: AI Engineer
+role: AI and DS Engineer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: GenCoin
-    url: https://www.example.com/
+  - name: RSET
+    url: https://www.rajagiritech.ac.in/Home/Index.asp
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -30,8 +30,6 @@ profiles:
   - icon: at-symbol
     url: 'mailto:aswathyrosemathew@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
   - icon: brands/github
     url: https://github.com/Aswathy-17
   - icon: brands/linkedin
@@ -48,9 +46,11 @@ education:
       CGPA: 9.48/10.00
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Artificial Intelligence
+      - Machine Learning
+      - Big Data Analytics
+      - Text Mining
+      - Data Mining
   - area: Computer Science
     institution: Assisi Vidyaniketan Public School
     date_start: 2020-01-01
@@ -59,22 +59,21 @@ education:
       Percentage: 96.2/100.0
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Python
+      - MySQL
+      - Mathematics
 
 work:
   - position: Machine Learning Intern
     company_name: NeST Cyber Campus
-    company_url: ''
+    company_url: https://www.nestcybercampus.com/
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: 2023-04-01
+    date_end: 2023-04-14
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Preprocessing Data
+      - Build and deploy models
 
 
 # Skills
