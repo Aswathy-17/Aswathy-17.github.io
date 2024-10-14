@@ -1,23 +1,23 @@
 ---
 # Display name
-title: 吳健雄
+title: Aswathy Rose Mathew
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Aswathy Rose
+last_name: Mathew
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: ✌️🎶
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Director of Cloud Infrastructure
+role: AI Engineer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -28,52 +28,44 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:aswathyrosemathew@gmail.com'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/Aswathy-17
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/aswathy-rose-mathew-3897261b6/
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/aswathy_rose
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Artificial Intelligence and Data Science
+    institution: Rajagiri School of Engineering and Technology
+    date_start: 2021-11-01
+    date_end: 2025-07-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+      CGPA: 9.48/10.00
 
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Computer Science
+    institution: Assisi Vidyaniketan Public School
+    date_start: 2020-01-01
+    date_end: 2021-12-31
     summary: |
-      GPA: 3.4/4.0
-      
+      Percentage: 96.2/100.0
+
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Machine Learning Intern
+    company_name: NeST Cyber Campus
     company_url: ''
     company_logo: ''
     date_start: 2021-01-01
@@ -83,17 +75,7 @@ work:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -106,11 +88,19 @@ skills:
         icon: devicon/python
       - name: RStudio
         description: ''
-        percent: 100
+        percent: 80
         icon: devicon/rstudio
       - name: PyTorch
         description: ''
         percent: 40
+        icon: devicon/pytorch
+        name: C
+        description: ''
+        percent: 40
+        icon: devicon/pytorch
+        name: SQL
+        description: ''
+        percent: 80
         icon: devicon/pytorch
   - name: Hobbies
     color: '#eeac02'
@@ -132,17 +122,17 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Malayalam
+    percent: 100
+  - name: Hindi
+    percent: 45
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
+  - title: Google Data Analytics
     url: https://www.coursera.org/learn/neural-networks-deep-learning
     date: '2023-11-25'
     awarder: Coursera
@@ -169,4 +159,4 @@ awards:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-I am currently Director of Cloud Infrastructure at GenCoin where I am leading teams on edge computing, deep sea data center architecture, and hivemind optimization.
+I am currently pursuing BTech in Rajagiri School of Engineering and Technology. Skilled in programming, statistical analysis, and data visualization, with a strong foundation in deep learning and AI ethics. Eager to contribute to innovative projects and continuously enhance skills in the rapidly evolving tech landscape.
