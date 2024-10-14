@@ -11,18 +11,18 @@ last_name: Mathew
 
 # Status emoji
 status:
-  icon: 🎶
+  icon: ✌️🎶
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: AI and DS Engineer
+role: AI Engineer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: RSET
-    url: https://www.rajagiritech.ac.in/Home/Index.asp
+  - name: GenCoin
+    url: https://www.example.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -30,6 +30,8 @@ profiles:
   - icon: at-symbol
     url: 'mailto:aswathyrosemathew@gmail.com'
     label: E-mail Me
+  - icon: brands/x
+    url: https://twitter.com/GetResearchDev
   - icon: brands/github
     url: https://github.com/Aswathy-17
   - icon: brands/linkedin
@@ -46,11 +48,9 @@ education:
       CGPA: 9.48/10.00
 
       Courses included:
-      - Artificial Intelligence
-      - Machine Learning
-      - Big Data Analytics
-      - Text Mining
-      - Data Mining
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: Computer Science
     institution: Assisi Vidyaniketan Public School
     date_start: 2020-01-01
@@ -59,21 +59,22 @@ education:
       Percentage: 96.2/100.0
 
       Courses included:
-      - Python
-      - MySQL
-      - Mathematics
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 work:
   - position: Machine Learning Intern
     company_name: NeST Cyber Campus
-    company_url: https://www.nestcybercampus.com/
+    company_url: ''
     company_logo: ''
-    date_start: 2023-04-01
-    date_end: 2023-04-14
+    date_start: 2021-01-01
+    date_end: ''
     summary: |2-
       Responsibilities include:
-      - Preprocessing Data
-      - Build and deploy models
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 
 # Skills
